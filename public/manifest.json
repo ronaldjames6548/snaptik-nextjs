@@ -1,0 +1,29 @@
+{
+  "name": "Snap Tik - Tải Video TikTok",
+  "short_name": "SnapTik",
+  "description": "Tải video TikTok không watermark miễn phí, chất lượng cao. Hỗ trợ tải MP4, MP3 nhanh chóng, an toàn.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "vi",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
